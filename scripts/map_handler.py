@@ -24,5 +24,5 @@ def convert_wgs_2_cartesian(input_file,output_file):
     tree.write(output_file, "UTF-8",short_empty_elements=True)
 
 if __name__ == '__main__':
-    utm_file_name='/Jiajie_2F_ShanghaiTech_merge_F2_corrected_id2name_outside_structure'
+    utm_file_name='/2F_ShanghaiTech_merge'
     convert_wgs_2_cartesian(osm_path_prefix+utm_file_name+'.osm',osm_path_prefix+utm_file_name+'_utm.osm')

@@ -1,0 +1,1020 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="JOSM">
+  <way id="-188342">
+    <tag k="name" v="E1d-F1-MR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188343">
+    <tag k="name" v="E1d-F1-10" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-103.C" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188344">
+    <tag k="name" v="E1-ST-08" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="stairs" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188345">
+    <tag k="name" v="E1d-F1-09" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-103.B" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188346">
+    <tag k="name" v="E1d-F1-04" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-104" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188347">
+    <tag k="name" v="E1d-F1-CL-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188348">
+    <tag k="name" v="E1d-F1-11" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-103.D" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188349">
+    <tag k="name" v="E1d-F1-05" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-106" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188350">
+    <tag k="name" v="E1d-F1-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="D sector main corridor" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188351">
+    <tag k="name" v="E1d-F1-07" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="meeting room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-101" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188352">
+    <tag k="name" v="E2-P4" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="elevator" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188353">
+    <tag k="name" v="E1d-F1-06" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-108" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188354">
+    <tag k="name" v="E1d-F1-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188355">
+    <tag k="name" v="E1d-F1-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-102" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188356">
+    <tag k="name" v="E1d-F1-SE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188357">
+    <tag k="name" v="E1-ST-09" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="stairs" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188358">
+    <tag k="name" v="E1d-F1-WE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188359">
+    <tag k="name" v="E2-P3" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="elevator" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188360">
+    <tag k="name" v="E1d-F1-COR-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188361">
+    <tag k="name" v="E1d-F1-13" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Mars Lab" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-105" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188362">
+    <tag k="name" v="E1d-F1-08" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Soeren Schwertfeger" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-103.A" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188363">
+    <tag k="name" v="E1d-F1-14" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-107" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188364">
+    <tag k="name" v="E1d-F1-WR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188365">
+    <tag k="name" v="E1d-F1-12" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:room_number" v="1D-103.E" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188366">
+    <tag k="name" v="E1d-F1-COR-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188367">
+    <tag k="building" v="university" />
+    <tag k="name" v="信息科学与技术学院 #1" />
+    <tag k="name:zh" v="信息科学与技术学院 #1" />
+    <tag k="name:zh-Hans" v="信息科学与技术学院 #1" />
+    <tag k="name:zh-Hant" v="資訊科學與技術學院 #1" />
+    <tag k="operator" v="上海科技大学" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188368">
+    </way>
+  <way id="-188369">
+    </way>
+  <way id="-188370">
+    </way>
+  <way id="-188371">
+    </way>
+  <way id="-188372">
+    <tag k="name" v="E1c-F1-WE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188373">
+    </way>
+  <way id="-188374">
+    </way>
+  <way id="-188375">
+    <tag k="name" v="E1b-F1-07" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Tom Kneip" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-112" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188376">
+    <tag k="name" v="E1b-F1-06" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Jiajie Zhang" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-110" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188377">
+    <tag k="name" v="E1b-F1-SHOWER" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188378">
+    <tag k="name" v="E1b-F1-WR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188379">
+    <tag k="name" v="E1b-F1-MR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188380">
+    <tag k="name" v="E1b-F1-DR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188381">
+    <tag k="name" v="E1b-F1-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-104" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188382">
+    <tag k="name" v="E1b-F1-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188383">
+    <tag k="name" v="E1b-F1-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-102" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188384">
+    <tag k="name" v="E1-ST-05" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="stairs" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188385">
+    <tag k="name" v="E1b-F1-COR-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188386">
+    <tag k="name" v="E1b-F1-05" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-108" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188387">
+    <tag k="name" v="E1b-F1-04" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Fujing Xie" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-106" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188388">
+    <tag k="name" v="E1-P2" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="elevator" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188389">
+    <tag k="name" v="E1b-F1-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="B sector main corridor" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188390">
+    <tag k="name" v="E1b-F1-CL-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188391">
+    <tag k="name" v="E1-ST-06" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="stairs" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188392">
+    <tag k="name" v="E1c-F1-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-101" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188393">
+    <tag k="name" v="E1c-F1-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-103" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188394">
+    <tag k="name" v="E1c-F1-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-105" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188395">
+    <tag k="name" v="E1c-F1-04" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-107" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188396">
+    <tag k="name" v="E1c-F1-05" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-109" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188397">
+    <tag k="name" v="E1c-F1-06" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-111" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188398">
+    <tag k="name" v="E1c-F1-WR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188399">
+    <tag k="name" v="E1c-F1-MR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188400">
+    <tag k="name" v="E1c-F1-07" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-104" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188401">
+    <tag k="name" v="E1c-F1-08" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="robotics training lab" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-106" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188402">
+    <tag k="name" v="E1c-F1-SE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188403">
+    <tag k="name" v="E1c-F1-10" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188404">
+    <tag k="name" v="E1-S1" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="elevator" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188405">
+    <tag k="name" v="E1-ST-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="stairs" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188406">
+    <tag k="name" v="E1b-F1-BAL" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188407">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F1-09" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-103" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188408">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F1-10" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-105" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188409">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F1-11" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-107" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188410">
+    <tag k="name" v="E1b-F1-12" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="VIP conference room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-109" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188411">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F1-08" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F1" />
+    <tag k="osmAG:room_number" v="1B-101" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188412">
+    <tag k="name" v="E1a-F1-PF3" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188413">
+    <tag k="name" v="E1a-F1-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188414">
+    </way>
+  <way id="-188415">
+    </way>
+  <way id="-188416">
+    </way>
+  <way id="-188417">
+    <tag k="name" v="E1a-F1-PF1" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188418">
+    <tag k="name" v="E1a-F1-PF2" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188419">
+    <tag k="name" v="E1a-F1-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1C-101" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188420">
+    <tag k="name" v="E1-ST-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="stairs" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188421">
+    <tag k="name" v="E1c-F1-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="C sector main corridor" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188422">
+    <tag k="name" v="E1c-F1-COR-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188423">
+    <tag k="name" v="E1-P1" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="elevator" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188424">
+    <tag k="name" v="E1-F1-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="lobby" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188425">
+    <tag k="name" v="E1-ST-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188426">
+    <tag k="name" v="E1-F1" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188427">
+    <tag k="name" v="E1c-F1-COR-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188428">
+    <tag k="name" v="E1c-F1-09" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F1" />
+    <tag k="osmAG:room_number" v="1A-108" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188465">
+    <tag k="name" v="E1c-F1" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:parent" v="E1-F1" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188497">
+    <tag k="name" v="E1b-F1" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:parent" v="E1-F1" />
+    <tag k="osmAG:area_usage" v="B Sector" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188522">
+    <tag k="name" v="outside" />
+    <tag k="osmAG:areaType" v="outside" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188528">
+    <tag k="name" v="E1d-F1" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:parent" v="E1-F1" />
+    <tag k="osmAG:type" v="area" />
+    <tag k="osmAG:area_usage" v="D Sector" />
+  </way>
+  <way id="-188532">
+    <tag k="name" v="E1d-F2-MR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188533">
+    <tag k="name" v="E1d-F2-10" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-203.C" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188534">
+    <tag k="name" v="E1d-F2-09" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-203.B" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188535">
+    <tag k="name" v="E1d-F2-04" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-204" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188536">
+    <tag k="name" v="E1d-F2-CL-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188537">
+    <tag k="name" v="E1d-F2-11" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-203.D" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188538">
+    <tag k="name" v="E1d-F2-05" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-206" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188539">
+    <tag k="name" v="E1d-F2-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188540">
+    <tag k="name" v="E1d-F2-07" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="meeting room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-201" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188541">
+    <tag k="name" v="E1d-F2-06" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-208" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188542">
+    <tag k="name" v="E1d-F2-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188543">
+    <tag k="name" v="E1d-F2-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-202" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188544">
+    <tag k="name" v="E1d-F2-SE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188545">
+    <tag k="name" v="E1d-F2-WE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188546">
+    <tag k="name" v="E1d-F2-COR-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188547">
+    <tag k="name" v="E1d-F2-13" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Mars Lab" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-205" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188548">
+    <tag k="name" v="E1d-F2-08" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Soeren Schwertfeger" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-203.A" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188549">
+    <tag k="name" v="E1d-F2-14" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-207" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188550">
+    <tag k="name" v="E1d-F2-WR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188551">
+    <tag k="name" v="E1d-F2-12" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:room_number" v="1D-203.E" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188552">
+    <tag k="name" v="E1d-F2-COR-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1d-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188553">
+    <tag k="name" v="E1c-F2-WE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188554">
+    <tag k="name" v="E1b-F2-07" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Tom Kneip" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-212" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188555">
+    <tag k="name" v="E1b-F2-06" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-210" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188556">
+    <tag k="name" v="E1b-F2-SHOWER" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188557">
+    <tag k="name" v="E1b-F2-WR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188558">
+    <tag k="name" v="E1b-F2-MR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188559">
+    <tag k="name" v="E1b-F2-DR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188560">
+    <tag k="name" v="E1b-F2-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-204" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188561">
+    <tag k="name" v="E1b-F2-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188562">
+    <tag k="name" v="E1b-F2-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-202" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188563">
+    <tag k="name" v="E1b-F2-COR-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188564">
+    <tag k="name" v="E1b-F2-05" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-208" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188565">
+    <tag k="name" v="E1b-F2-04" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:occupied_by" v="Fujing Xie" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-206" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188566">
+    <tag k="name" v="E1b-F2-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188567">
+    <tag k="name" v="E1b-F2-CL-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188568">
+    <tag k="name" v="E1c-F2-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-201" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188569">
+    <tag k="name" v="E1c-F2-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-203" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188570">
+    <tag k="name" v="E1c-F2-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-205" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188571">
+    <tag k="name" v="E1c-F2-04" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-207" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188572">
+    <tag k="name" v="E1c-F2-05" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-209" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188573">
+    <tag k="name" v="E1c-F2-06" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-211" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188574">
+    <tag k="name" v="E1c-F2-WR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188575">
+    <tag k="name" v="E1c-F2-MR" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188576">
+    <tag k="name" v="E1c-F2-07" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-204" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188577">
+    <tag k="name" v="E1c-F2-08" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-206" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188578">
+    <tag k="name" v="E1c-F2-SE" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188579">
+    <tag k="name" v="E1c-F2-10" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188580">
+    <tag k="name" v="E1b-F2-BAL" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188581">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F2-09" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-203" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188582">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F2-10" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-205" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188583">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F2-11" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-207" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188584">
+    <tag k="name" v="E1b-F2-12" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="VIP conference room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-209" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188585">
+    <tag k="alias" v="classroom" />
+    <tag k="name" v="E1b-F2-08" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1b-F2" />
+    <tag k="osmAG:room_number" v="1B-201" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188586">
+    <tag k="name" v="E1a-F2-PF3" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188587">
+    <tag k="name" v="E1a-F2-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188588">
+    <tag k="name" v="E1a-F2-PF2" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188589">
+    <tag k="name" v="E1a-F2-PF2" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188590">
+    <tag k="name" v="E1a-F2-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1C-201" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188591">
+    <tag k="name" v="E1c-F2-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188592">
+    <tag k="name" v="E1c-F2-COR-03" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188593">
+    <tag k="name" v="E1-F2-COR-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:area_usage" v="lobby" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188594">
+    <tag k="name" v="E1-ST-01" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188595">
+    <tag k="name" v="E1-F2" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188596">
+    <tag k="name" v="E1c-F2-COR-02" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188597">
+    <tag k="name" v="E1c-F2-09" />
+    <tag k="osmAG:areaType" v="room" />
+    <tag k="osmAG:parent" v="E1c-F2" />
+    <tag k="osmAG:room_number" v="1A-208" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188662">
+    <tag k="name" v="E1b-F2" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:parent" v="E1-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  <way id="-188685">
+    <tag k="name" v="E1d-F2" />
+    <tag k="osmAG:areaType" v="structure" />
+    <tag k="osmAG:parent" v="E1-F2" />
+    <tag k="osmAG:type" v="area" />
+  </way>
+  </osm>

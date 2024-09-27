@@ -5,7 +5,7 @@ import map_drawer
 # Function used to generate a json file with doors with multiple passages in order to save experience of all passages
 # There is no point to keep track of the only door to a room since there is no other choice.
 def get_experience_json():
-    osm_file = '/home/xiefujing/catkin_ws/src/osmAG_intelligent_navigation/osmAG/real/Jiajie_2F_ShanghaiTech_merge_F2_corrected_id2name_outside_structure_utm.osm'
+    osm_file = '/home/xiefujing/catkin_ws/src/osmAG_intelligent_navigation/osmAG/real/2F_ShanghaiTech_merge_utm.osm'
     tree = ET.parse(osm_file)
     root = tree.getroot()
     areas=map_drawer.parse_osm(tree)

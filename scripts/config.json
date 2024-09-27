@@ -1,0 +1,35 @@
+{
+    "osm_path_prefix": "./src/osmAG_intelligent_navigation/osmAG/real",
+    "osmAG_intelligent_navigation_prefix": "./src/osmAG_intelligent_navigation/",
+    "osm_file": "2F_ShanghaiTech_merge.osm",
+    "utm_file_name": "2F_ShanghaiTech_merge_utm",
+    "path_length_json":"2F_ShanghaiTech_merge_utm_path_0704.json",
+    "grid_map_yaml":"./src/osmAG_intelligent_navigation/osmAG/occupancy_grid_map/osm_occupancy_map_part.yaml",
+
+    "useExperience": true,
+    "experience_file":"/experience_2floor.json",
+    "experience_to_openai_file":"/experience_2_openai.json",
+    "cases_folder":"./src/osmAG_intelligent_navigation/scripts/cases/",
+    "passage_experience_from_openai":"/passage_experience_from_openai.json",
+    
+    "avoid_floor2": true,
+    "elevator_floor2_passage": ["E2-P3_to_E1d-F2-COR-01","E1-F2-COR-01_to_E1-P2","E2-P4_to_E1d-F2-COR-01","E1b-F2-COR-01_to_E1-P2","E1-P1_to_E1-F2-COR-01","E1-S1_to_E1-F2-COR-01"],
+    "stairs_floor2_passage": ["E1-ST-09_to_E1d-F2-COR-01","E1d-F2-COR-02_to_E1-ST-08","E1b-F2-COR-01_to_E1-ST-06","E1-ST-05_to_E1b-F2-COR-03","E1c-F2-COR-02_to_E1-ST-02","E1-ST-03_to_E1c-F2-COR-01"],
+
+    "history_event_json":"./src/osmAG_intelligent_navigation/scripts/history.json",
+    
+    "osm_utm_transform": {
+        "x": 365557, 
+        "y": 3450307 
+    },
+    "llm": {   
+        "openai_model":"gpt-4o",
+        "temperature": 0.1,
+        "max_tokens": 4096
+    },
+    "proxy" : {   
+        "http": "http://localhost:7980",
+        "https": "http://localhost:7980"  
+        },
+    "openai_api_key":"put_your_openai_api_key_here"
+}

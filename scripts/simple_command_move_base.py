@@ -334,7 +334,7 @@ class RobotNavigation:
             return False
     
     def simulate_command_move_base(self,closed_passage,areas_path):
-        # print(f"{utility.ORANGE}[simple_command_move_base]simulate_command_move_base start, closed_passage={closed_passage}, areas_path={areas_path}{utility.RESET}")
+
 
         if len(self.multi_passageid_path)>1:
             self.next_passage=self.multi_passageid_path[0]
