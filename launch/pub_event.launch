@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="level" default="0.0"/>
+  <arg name="initial_position_x" default="177.0"/>
+  <arg name="initial_position_y" default="37.0"/>
+  <arg name="case_num" default="case2"/>
+  <arg name="free_pass_start" default=""/>
+  <arg name="free_pass_end" default=""/>
+  <arg name="human_natural_language_command" default=""/>
+  <node pkg="osmAG_intelligent_navigation" type="pub_interact_msg.py" name="pub_interact_msg" output="screen" >
+  </node>
+  <node pkg="osmAG_intelligent_navigation" type="NavigationEventMonitor.py" name="NavigationEventMonitor" output="screen" >
+    <param name="case_num" value="$(arg case_num)" />
+  </node>
+</launch>
+  

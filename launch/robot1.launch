@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<launch>
+  <param name="/use_sim_time" value="true"/>
+  <arg name="level" default="0.0"/>
+  <arg name="initial_position_x" default="177.0"/>
+  <arg name="initial_position_y" default="37.0"/>
+  <arg name="case_num" default="case1"/>
+  <arg name="model" default="waffle"/>
+  <remap from="/move_base/current_goal" to="/robot1/move_base/current_goal"/>
+  <remap from="/move_base_simple/goal" to="/robot1/move_base_simple/goal"/>
+  <node pkg="tf" type="static_transform_publisher" name="world_to_map" args="0 0 0 0 0 0 world map 500"/>
+  <node pkg="tf" type="static_transform_publisher" name="map_to_odom1" args="0 0 0 0 0 0 map robot1/odom 500"/>
+ <!-- Robot 1 Namespace -->
+  <group ns="robot1">
+    <param name="tf_prefix" value="robot1"/> 
+    <param name="robot_description" command="$(find xacro)/xacro --inorder $(find turtlebot3_description)/urdf/turtlebot3_waffle.urdf.xacro" />
+    <node name="spawn_urdf_robot1" pkg="gazebo_ros" type="spawn_model" args="-param robot_description -urdf -x $(arg  initial_position_x) -y $(arg  initial_position_y) -z $(arg  level) -R 0 -P 0 -Y 1.5708 -model robot1" output="screen"  />
+    <node name="map_server" pkg="map_server" type="map_server" args="$(find osmAG_intelligent_navigation)/osmAG/occupancy_grid_map/osm_occupancy_map.yaml /map:=/robot1/map" output="screen"/>
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" output="screen"/>
+  <arg name="cmd_vel_topic" default="/cmd_vel" />
+  <arg name="odom_topic" default="odom" />
+  <arg name="move_forward_only" default="false"/>
+   <param name="base_local_planner" value="dwa_local_planner/DWAPlannerROS"/>
+  <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">
+      <remap from="cmd_vel" to="/robot1/cmd_vel"/>
+      <remap from="odom" to="/robot1/odom"/>
+      <remap from="/map" to="/robot1/map"/>
+    <param name="base_local_planner" value="dwa_local_planner/DWAPlannerROS" />
+    <rosparam file="$(find turtlebot3_navigation)/param/costmap_common_params_$(arg model).yaml" command="load" ns="global_costmap" />
+    <rosparam file="$(find turtlebot3_navigation)/param/costmap_common_params_$(arg model).yaml" command="load" ns="local_costmap" />
+    <rosparam file="$(find turtlebot3_navigation)/param/local_costmap_params.yaml" command="load" />
+    <rosparam file="$(find turtlebot3_navigation)/param/global_costmap_params.yaml" command="load" />
+    <rosparam file="$(find turtlebot3_navigation)/param/move_base_params.yaml" command="load" />
+    <rosparam file="$(find turtlebot3_navigation)/param/dwa_local_planner_params_$(arg model).yaml" command="load" />
+    <param name="DWAPlannerROS/min_vel_x" value="0.0" if="$(arg move_forward_only)" />
+    <param name="global_costmap/robot_base_frame" value="robot1/base_footprint"/> 
+    <param name="local_costmap/robot_base_frame" value="robot1/base_footprint"/>
+    <param name="local_costmap/global_frame" value="robot1/odom"/> 
+    <param name="global_costmap/scan/topic" value="/robot1/scan_"/>
+    <param name="local_costmap/scan/topic" value="/robot1/scan_"/>
+    <param name="local_costmap/obstacle_layer/laser_scan_sensor/sensor_frame" value="robot1/base_scan"/>
+    <param name="local_costmap/scan/sensor_frame" value="robot1/base_scan"/>
+    <param name="global_costmap/obstacle_layer/laser_scan_sensor/sensor_frame" value="robot1/base_scan"/>
+    <param name="global_costmap/scan/sensor_frame" value="robot1/base_scan"/>
+    <param name="global_costmap/scan/clearing" value="false"/>
+    <param name="local_costmap/scan/clearing" value="false"/>
+    <param name="DWAPlannerROS/min_vel_x" value="0.0" if="$(arg move_forward_only)" />
+  </node>
+  </group>
+  <node type="rviz" name="rviz" pkg="rviz" args="-d $(find mobile_manipulator_body)/config/mobile_two_robot.rviz" />
+  <arg name="world_name" default="case1_with_collision"/>
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="/home/xiefujing/catkin_ws/src/mobile_manipulator_body/worlds/$(arg world_name).world"/>
+    <arg name="gui" value="false"/>
+  </include>
+</launch>
+  
