@@ -7,6 +7,7 @@ This is the open source repository for the paper "Intelligent LiDAR Navigation: 
 
 ### Base Idea
 Recent efforts to integrate large language models (LLMs) into robot navigation often emphasize using vision-based approaches to extract semantic information of robot surrendings. However, traditional robotics primarily relies on maps and LiDAR for navigation for example well-used ROS move_base package. But if you think about it, robots don't need to identify specific obstacles; they simply need to recognize that something is blocking their path and find a way around it. We argue that, similar to the widely used ROS move_base package, vision information may not be essential for navigation. Instead, we propose leveraging LLMs to interpret textual maps and respond to external information, such as notifications about an intersection closure (for example the image below, a 3rd-party delivery robot on our University campus, where it is blocked by an intersection closure. Below the e-mail sent by Office of General Services announcing this closure is shown). For actual navigation, we can continue to utilize LiDAR and the ROS move_base framework.
+![email](https://github.com/user-attachments/assets/e549a4a2-7f00-49d1-b2a0-7ed32f7a9072)
 
 To be continued...
 ### Citation
