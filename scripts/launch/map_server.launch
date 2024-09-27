@@ -1,0 +1,9 @@
+<launch>
+    <arg name="map_file" default="$(find osmAG_intelligent_navigation)/osmAG/occupancy_grid_map/osm_occupancy_map_part.yaml"/>
+<group ns="robot2">
+    <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)">
+        <param name="frame_id" value="map" />
+        <remap from="/map" to="/robot2/map"/>
+    </node>
+</group>
+</launch>

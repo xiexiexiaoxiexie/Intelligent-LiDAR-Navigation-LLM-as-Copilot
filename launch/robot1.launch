@@ -47,10 +47,10 @@
     <param name="DWAPlannerROS/min_vel_x" value="0.0" if="$(arg move_forward_only)" />
   </node>
   </group>
-  <node type="rviz" name="rviz" pkg="rviz" args="-d $(find mobile_manipulator_body)/config/mobile_two_robot.rviz" />
+  <node type="rviz" name="rviz" pkg="rviz" args="-d $(find osmAG_intelligent_navigation)/config/mobile_two_robot.rviz" />
   <arg name="world_name" default="case1_with_collision"/>
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <arg name="world_name" value="/home/xiefujing/catkin_ws/src/mobile_manipulator_body/worlds/$(arg world_name).world"/>
+    <arg name="world_name" value="$(find osmAG_intelligent_navigation)/worlds/$(arg world_name).world"/>
     <arg name="gui" value="false"/>
   </include>
 </launch>
