@@ -198,5 +198,5 @@ def locate_robot_area(current_pose,areas):
     return inside_area_name
 
 def get_text_from_md(title):
-    external_msg=extract_md_section("./src/osmAG_intelligent_navigation/external_info/email.md",'### '+title)
+    external_msg=extract_md_section("./src/osmAG_intelligent_navigation/external_info/notification.md",'### '+title)
     return external_msg
