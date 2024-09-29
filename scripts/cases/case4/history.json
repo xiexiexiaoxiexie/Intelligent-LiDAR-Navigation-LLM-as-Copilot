@@ -1,0 +1,42 @@
+[
+    {
+        "current_status": {
+            "current_date": "2024-07-05",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "2024-07-04",
+            "current_time": "10:00 AM",
+            "today_weather": "",
+            "current_events": [
+                {
+                    "event_name": "Network Upgrade",
+                    "event_data": "2024-07-07",
+                    "event_duration": "8 hours",
+                    "room_name": "SIST Building B sector",
+                    "msg_text": "In order to further improve the quality of network service, Library and Information Center plans to upgrade the wireless access exchange in SIST Building B sector June 7, 2024. The wireless access will be affected during the upgrade (the upgrade operation will be carried out in batches, and the actual affected time will be about 8 hours). We apologize for any inconvenience caused. If you have any other questions, please call IT operation and maintenance service hotline 021-20685566 or contact Teacher Jie Lin, tel: 021-20684821, Email: linjie@shanghaitech.edu.cn"
+                }
+            ]
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "2024-07-07",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Network Upgrade",
+                    "event_data": "2024-07-07",
+                    "event_duration": "8 hours",
+                    "room_name": "SIST Building B sector and the lobby",
+                    "msg_text": "In order to further improve the quality of network service, Library and Information Center plans to upgrade the wireless access exchange in SIST Building B sector and the lobby June 7, 2024. The wireless access will be affected during the upgrade (the upgrade operation will be carried out in batches, and the actual affected time will be about 8 hours). We apologize for any inconvenience caused. If you have any other questions, please call IT operation and maintenance service hotline 021-xxx or contact Teacher xxx Lin, tel: 021-xxx, Email: xxx@shanghaitech.edu.cn"
+                }
+            ]
+        }
+    }
+]

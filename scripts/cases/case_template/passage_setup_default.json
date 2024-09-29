@@ -1,0 +1,738 @@
+{
+    "E1d-F1-COR-02_to_E1-ST-08": {
+        "door_type": "handle",
+        "open_degree": -90
+    },
+    "E1d-F2-COR-02_to_E1-ST-08": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-04_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-04_to_E1d-F1-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-05_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-05_to_E1d-F1-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-COR-02_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": -90
+    },
+    "E1d-F1-07_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-13_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-13_to_E1d-F1-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-14_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-14_to_E1d-F1-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-03_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-03_to_E1d-F1-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E2-P4_to_E1d-F1-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E2-P3_to_E1d-F1-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1d-F1-COR-03_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-ST-09_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-COR-01_to_outside": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-07_to_E1d-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E2-P4_to_E1d-F2-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-ST-09_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E2-P3_to_E1d-F2-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1d-F1-COR-03_to_E1d-F1-COR-02": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-COR-02_to_outside": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-ST-05_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": -90
+    },
+    "E1-ST-05_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": -90
+    },
+    "E1b-F1-COR-01_to_E1-P2": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_E1-P2": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1-P2": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-F2-COR-01_to_E1-P2": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1-ST-06": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1b-F1-12": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1b-F1-11": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1b-F1-10": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1b-F1-09": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1b-F1-08": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_outside": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-COR-01_to_E1-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1-ST-06": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-07_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-07_to_E1c-F1-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-08_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-08_to_E1c-F1-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-S1_to_E1-F1-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-S1_to_E1-F2-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-ST-03_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-ST-03_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-09_to_E1-F1-COR-01": {
+        "door_type": "sliding_door",
+        "open_degree": 90
+    },
+    "E1b-F1-10_to_E1-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-11_to_E1-F1-COR-01": {
+        "door_type": "sliding_door",
+        "open_degree": 90
+    },
+    "E1b-F1-12_to_E1-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F1-08_to_E1-F1-COR-01": {
+        "door_type": "sliding_door",
+        "open_degree": 90
+    },
+    "E1a-F1-01_to_E1a-F1-PF3": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F1-01_to_E1a-F1-PF3_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F1-01_to_E1a-F1-PF1": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F1-01_to_E1a-F1-PF1_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_E1a-F1-PF1": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F1-01_to_E1a-F1-PF2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F1-01_to_E1a-F1-PF2_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-COR-02_to_E1-ST-02": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F2-COR-02_to_E1-ST-02": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-COR-02_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-COR-01_to_outside": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-P1_to_E1-F1-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-P1_to_E1-F2-COR-01": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_outside": {
+        "door_type": "automatic",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_outside_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_outside_3": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-F1-COR-01_to_outside_4": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F1-COR-02_to_outside": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-04_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-04_to_E1d-F2-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-05_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-05_to_E1d-F2-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-F2-COR-01_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-COR-02_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-07_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-13_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-13_to_E1d-F2-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-14_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-14_to_E1d-F2-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-03_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-03_to_E1d-F2-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-COR-03_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-07_to_E1d-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F2-COR-03_to_E1d-F2-COR-02": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1b-F2-12": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1b-F2-11": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1b-F2-10": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1b-F2-09": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1b-F2-08": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-COR-01_to_E1-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F2-07_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F2-07_to_E1c-F2-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F2-08_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F2-08_to_E1c-F2-COR-01_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-09_to_E1-F2-COR-01": {
+        "door_type": "sliding_door",
+        "open_degree": 90
+    },
+    "E1b-F2-10_to_E1-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-11_to_E1-F2-COR-01": {
+        "door_type": "sliding_door",
+        "open_degree": 90
+    },
+    "E1b-F2-12_to_E1-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1b-F2-08_to_E1-F2-COR-01": {
+        "door_type": "sliding_door",
+        "open_degree": 90
+    },
+    "E1a-F2-01_to_E1a-F2-PF3": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F2-01_to_E1a-F2-PF3_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F2-01_to_E1a-F2-PF2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1a-F2-01_to_E1a-F2-PF2_2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1-F2-COR-01_to_E1a-F2-PF2": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1c-F2-COR-02_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 90
+    },
+    "E1d-F1-MR_to_E1d-F1-COR-02": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-COR-03_to_E1d-F1-10": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-COR-03_to_E1d-F1-09": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-CL-01_to_E1d-F1-COR-02": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-COR-03_to_E1d-F1-11": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-SE_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-WE_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-02_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-06_to_E1d-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-WR_to_E1d-F1-COR-02": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F1-COR-03_to_E1d-F1-08": {
+        "door_type": "handle",
+        "open_degree": -90
+    },
+    "E1d-F1-COR-03_to_E1d-F1-12": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-WE_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-COR-01_to_E1b-F1-07": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-COR-01_to_E1b-F1-06": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-COR-01_to_E1b-F1-SHOWER": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-WR_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-MR_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-DR_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-03_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-01_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-02_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-CL-01_to_E1b-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-COR-01_to_E1b-F1-05": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F1-COR-01_to_E1b-F1-04": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-01_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-02_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-03_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-04_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-05_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-06_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-WR_to_E1c-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-MR_to_E1c-F1-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-SE_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-10_to_E1-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F1-09_to_E1c-F1-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-MR_to_E1d-F2-COR-02": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-COR-03_to_E1d-F2-10": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-COR-03_to_E1d-F2-09": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-CL-01_to_E1d-F2-COR-02": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-COR-03_to_E1d-F2-11": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-SE_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-WE_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-02_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-06_to_E1d-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-WR_to_E1d-F2-COR-02": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-COR-03_to_E1d-F2-08": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1d-F2-COR-03_to_E1d-F2-12": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-WE_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-COR-01_to_E1b-F2-07": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-COR-01_to_E1b-F2-06": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-COR-01_to_E1b-F2-SHOWER": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-WR_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-MR_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-DR_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-03_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-01_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-02_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-CL-01_to_E1b-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-COR-01_to_E1b-F2-05": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1b-F2-COR-01_to_E1b-F2-04": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-01_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-02_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-03_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-04_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-05_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-06_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-WR_to_E1c-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-MR_to_E1c-F2-COR-03": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-SE_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-10_to_E1-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    },
+    "E1c-F2-09_to_E1c-F2-COR-01": {
+        "door_type": "handle",
+        "open_degree": 0
+    }
+}

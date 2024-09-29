@@ -1,0 +1,42 @@
+[
+    {
+        "current_status": {
+            "current_date": "07/05/2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "07/06/2024",
+            "current_time": "10:00 AM",
+            "today_weather": "",
+            "current_events": [
+                {
+                    "event_name": "Graduation Party",
+                    "event_data": "2024-07-07",
+                    "event_duration": "All day",
+                    "room_name": "Lobby",
+                    "msg_text": "Graduation party in the lobby. Please avoid crowding."
+                }
+            ]
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "07/07/2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Graduation Party",
+                    "event_data": "2024-07-07",
+                    "event_duration": "All day",
+                    "room_name": "Lobby",
+                    "msg_text": "Graduation party in the lobby. Please avoid crowding."
+                }
+            ]
+        }
+    }
+]

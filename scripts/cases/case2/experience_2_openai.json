@@ -1,0 +1,483 @@
+{
+    "E1d-F1-COR-02_to_E1-ST-08": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-COR-02_to_E1-ST-08": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-04_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-04_to_E1d-F1-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-05_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-05_to_E1d-F1-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-F1-COR-01_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-COR-02_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-07_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-13_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-13_to_E1d-F1-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-14_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-14_to_E1d-F1-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-03_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-03_to_E1d-F1-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E2-P4_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E2-P3_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1d-F1-COR-03_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-ST-09_to_E1d-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-COR-01_to_outside": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F1-07_to_E1d-F1-COR-03": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E2-P4_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1-ST-09_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E2-P3_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1d-F1-COR-03_to_E1d-F1-COR-02": {
+        "experience": [
+            "success",
+            "success",
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1d-F1-COR-02_to_outside": {
+        "experience": [
+            "success",
+            "success",
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1-ST-05_to_E1b-F1-COR-03": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-ST-05_to_E1b-F2-COR-03": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1b-F1-COR-03": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1-P2": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1-F1-COR-01_to_E1-P2": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1b-F2-COR-01_to_E1-P2": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1-F2-COR-01_to_E1-P2": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1b-F1-COR-01_to_E1-ST-06": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1b-F1-12": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1b-F1-11": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1b-F1-10": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1b-F1-09": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1b-F1-08": {
+        "experience": [
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_outside": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-COR-01_to_E1-F1-COR-01": {
+        "experience": [
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1-ST-06": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F1-07_to_E1c-F1-COR-01": {
+        "experience": [
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1c-F1-07_to_E1c-F1-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F1-08_to_E1c-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F1-08_to_E1c-F1-COR-01_2": {
+        "experience": [
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1-S1_to_E1-F1-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1-S1_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1-ST-03_to_E1c-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-ST-03_to_E1c-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-09_to_E1-F1-COR-01": {
+        "experience": [],
+        "door_type": "sliding_door"
+    },
+    "E1b-F1-10_to_E1-F1-COR-01": {
+        "experience": [],
+        "door_type": "sliding_door"
+    },
+    "E1b-F1-11_to_E1-F1-COR-01": {
+        "experience": [],
+        "door_type": "sliding_door"
+    },
+    "E1b-F1-12_to_E1-F1-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F1-08_to_E1-F1-COR-01": {
+        "experience": [
+            "fail"
+        ],
+        "door_type": "sliding_door"
+    },
+    "E1a-F1-01_to_E1a-F1-PF3": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F1-01_to_E1a-F1-PF3_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F1-01_to_E1a-F1-PF1": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F1-01_to_E1a-F1-PF1_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-F1-COR-01_to_E1a-F1-PF1": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F1-01_to_E1a-F1-PF2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F1-01_to_E1a-F1-PF2_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F1-COR-02_to_E1-ST-02": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F2-COR-02_to_E1-ST-02": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F1-COR-02_to_E1c-F1-COR-01": {
+        "experience": [
+            "success",
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1-F1-COR-01_to_E1c-F1-COR-01": {
+        "experience": [
+            "fail"
+        ],
+        "door_type": "handle"
+    },
+    "E1c-F1-COR-01_to_outside": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-P1_to_E1-F1-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1-P1_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "automatic"
+    },
+    "E1-F1-COR-01_to_outside": {
+        "experience": [
+            "success",
+            "success",
+            "success"
+        ],
+        "door_type": "automatic"
+    },
+    "E1-F1-COR-01_to_outside_2": {
+        "experience": [
+            "success",
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1-F1-COR-01_to_outside_3": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-F1-COR-01_to_outside_4": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F1-COR-02_to_outside": {
+        "experience": [
+            "success",
+            "success"
+        ],
+        "door_type": "handle"
+    },
+    "E1d-F2-04_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-04_to_E1d-F2-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-05_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-05_to_E1d-F2-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-F2-COR-01_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-COR-02_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-07_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-13_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-13_to_E1d-F2-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-14_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-14_to_E1d-F2-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-03_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-03_to_E1d-F2-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-COR-03_to_E1d-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-07_to_E1d-F2-COR-03": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1d-F2-COR-03_to_E1d-F2-COR-02": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1b-F2-COR-03": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1b-F2-12": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1b-F2-11": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1b-F2-10": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1b-F2-09": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1b-F2-08": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-COR-01_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F2-07_to_E1c-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F2-07_to_E1c-F2-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F2-08_to_E1c-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F2-08_to_E1c-F2-COR-01_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-09_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "sliding_door"
+    },
+    "E1b-F2-10_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-11_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "sliding_door"
+    },
+    "E1b-F2-12_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1b-F2-08_to_E1-F2-COR-01": {
+        "experience": [],
+        "door_type": "sliding_door"
+    },
+    "E1a-F2-01_to_E1a-F2-PF3": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F2-01_to_E1a-F2-PF3_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F2-01_to_E1a-F2-PF2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1a-F2-01_to_E1a-F2-PF2_2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1-F2-COR-01_to_E1a-F2-PF2": {
+        "experience": [],
+        "door_type": "handle"
+    },
+    "E1c-F2-COR-02_to_E1c-F2-COR-01": {
+        "experience": [],
+        "door_type": "handle"
+    }
+}

@@ -25,35 +25,7 @@ Subject: Reminder: Graduation Party in the Lobby - Please Avoid Crowding
         Best regards,
 
         Public Service Office
-### elevator_maintenance
-Send time: 2024-07-06 10:00
-Subject: Reminder: Elevator Maintenance Schedule
-        Dear teachers and students:
 
-        In order to implement the requirements of Shanghai Municipal Market Supervision Administration Special [2023] No. 915 document, further promote the elevator safety bottoming action, and carry out elevator accident hidden danger investigation and rectification, the elevator maintenance unit is now arranged to complete the maintenance of the elevator anti-roping pulley (including anti-slip groove device, bearings, fixed parts, etc.), guide rails, speed limiters, safety clamps and speed limiter-safety clamp linkage test before July 30. The test in SIST D sector will be conducted on July 7, 2024.
-
-        During the test, the elevator in D sector is expected to stop, elevator in other sector will not be affected.
-
-        Best regards,
-
-        Public Service Office
-## elevator_maintenance_done
-Send time: 2024-07-06 10:00
-Subject: Elevator Maintenance Completed – Now Fully Operational
-
-        Dear all,
-
-        I am pleased to inform you that the maintenance work on our elevator has been successfully completed. As of today, the elevator is fully operational and accessible once again.
-
-        We understand the inconvenience that the downtime may have caused and appreciate your patience and understanding while we worked to enhance and ensure the safety and reliability of our facilities.
-
-        Should you have any questions or require further assistance, please do not hesitate to reach out.
-
-        Thank you for your cooperation.
-
-        Best regards,
-
-        Public Service Office
 
 ### class_room_renovation
 Send time: 2024-07-04 10:00
@@ -87,18 +59,6 @@ Please pay attention to the following aspects:
 
 Thanks for your understanding and cooperation.
 
-## Fire_Prevention_elevator
-Send time: 2024-07-04 10:00
-Dear all,
-As required by the "Fire Prevention Law", a professional fire protection inspection team will conduct annual fire prevention inspection and test on July 7 (Sunday), 2024.The test includes automatic power switching, automatic landing of the fire prevention rolling shutter doors, automatic release of access control, emergency landing of elevators and ringing of alarm bells,
-etc. Please cooperate and make necessary preparations as follows:
-1. Please turn off the computers, copiers, printers and other electrical devices in advance.
-2. Please do not take the elevator during the test.
-3. Stay calm when the alarm bell or radio alarm rings. Do not use fire-fighting facilities without authorization.
-4. During the test, please stay away from the rolling shutter doors. Please do not park your car under the rolling shutter door in the underground garage.
-5. Access control in some public areas and weak current rooms will be released, and access control in laboratories and offices will not be affected;
-6. During the test, the fans in the public walkway areas will operate and generate noise.
-7. If there is any problem after the test, please call the Campus Service Center to report repairs. Phone number: 021-xxx
 
 ### wireless_access_upgrade
 Send time: 2024-07-04 10:00

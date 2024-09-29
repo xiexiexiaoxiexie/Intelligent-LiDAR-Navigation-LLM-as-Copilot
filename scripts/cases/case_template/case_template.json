@@ -1,0 +1,38 @@
+{
+    "case_template": {
+        "case_num":"case_template",
+        "story":"",
+        "human_natural_language_command":"",
+        "Bcommand_move_base":false,
+        "multi_floor": false,
+        "closed_area": "E1-F1-COR-01",
+        "free_passes": {
+            "free_pass1": ["E1d-F1-13","E1c-F1-08"],
+            "free_pass2": ["E1d-F1-14","E1c-F1-08"],
+            "free_pass3": ["E1d-F1-05","E1c-F1-08"],
+            "free_pass4": ["E1d-F1-06","E1c-F1-08"],
+            "free_pass5": ["E1d-F1-08","E1c-F1-08"],
+            "free_pass6": ["E1d-F1-02","E1c-F1-08"],
+            "free_pass7": ["E1d-F1-04","E1c-F1-08"],
+            "free_pass8": ["E1d-F1-03","E1c-F1-08"],
+            "free_pass9": ["E1b-F1-08","E1c-F1-08"],
+            "free_pass10": ["E1b-F1-09","E1c-F1-08"],
+            "free_pass11": ["E1b-F1-10","E1c-F1-08"],
+            "free_pass12": ["E1b-F1-11","E1c-F1-08"],
+            "free_pass13": ["E1b-F1-12","E1c-F1-08"],
+            "free_pass14": ["E1b-F1-04","E1c-F1-08"],
+            "free_pass15": ["E1b-F1-05","E1c-F1-08"],
+            "free_pass16": ["E1b-F1-06","E1c-F1-08"],
+            "free_pass17": ["E1b-F1-07","E1c-F1-08"]
+        },
+        "world_file":"/home/xiefujing/catkin_ws/src/mobile_manipulator_body/worlds/case_template_with_collision.world",
+        "events":
+            [
+                "current_time_sun5",
+                "lobby6_7",
+                "current_time_sun7",
+                "navigation_task_start"
+            ]
+    }
+    
+}

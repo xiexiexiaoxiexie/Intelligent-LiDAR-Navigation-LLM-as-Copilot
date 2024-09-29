@@ -1,0 +1,36 @@
+{
+    "case2": {
+        "case_num":"case2",
+        "story":"class_room_renovation",
+        "human_natural_language_command":"Hi, robot, Please go and bring this document to Soeren's office",
+        "Bcommand_move_base":true,
+        "multi_floor": false,
+        "closed_area": ["E1d-F1-COR-01","1D-104","1D-106","1D-107","1D-108","E1d-F1-04", "E1d-F1-05", "E1d-F1-14", "E1d-F1-06"],
+        "free_passes": {
+            "free_pass1": ["E1c-F1-07","E1d-F1-08"],
+            "free_pass2": ["E1b-F1-08","E1d-F1-08"],
+            "free_pass3": ["E1c-F1-08","E1d-F1-08"],
+            "free_pass4": ["E1b-F1-11","E1d-F1-08"],
+            "free_pass5": ["E1c-F1-05","E1d-F1-08"],
+            "free_pass6": ["E1c-F1-09","E1d-F1-08"],
+            "free_pass7": ["E1b-F1-10","E1d-F1-08"],
+            "free_pass8": ["E1b-F1-03","E1d-F1-08"],
+            "free_pass9": ["E1b-F1-04","E1d-F1-08"],
+            "free_pass10": ["E1b-F1-05","E1d-F1-08"],
+            "free_pass11": ["E1b-F1-06","E1d-F1-08"],
+            "free_pass12": ["E1b-F1-07","E1d-F1-08"],
+            "free_pass13": ["E1c-F1-03","E1d-F1-08"],
+            "free_pass14": ["E1b-F1-12","E1d-F1-08"]
+        },
+        "closed_passage": ["E1d-F1-MR_to_E1d-F1-COR-02", "E1d-F1-COR-03_to_E1d-F1-10", "E1d-F1-COR-03_to_E1d-F1-09", "E1d-F1-CL-01_to_E1d-F1-COR-02", "E1d-F1-COR-03_to_E1d-F1-11", "E1-F1-COR-01_to_E1d-F1-COR-01", "E1d-F1-SE_to_E1d-F1-COR-01", "E1d-F1-WE_to_E1d-F1-COR-01", "E1d-F1-07_to_E1d-F1-COR-01", "E1d-F1-02_to_E1d-F1-COR-01", "E1d-F1-COR-01_to_outside", "E1d-F1-06_to_E1d-F1-COR-01", "E1d-F1-07_to_E1d-F1-COR-03", "E1d-F1-WR_to_E1d-F1-COR-02", "E1d-F1-COR-03_to_E1d-F1-12", "E1c-F1-WE_to_E1c-F1-COR-01", "E1b-F1-COR-01_to_E1b-F1-SHOWER", "E1b-F1-WR_to_E1b-F1-COR-03", "E1b-F1-MR_to_E1b-F1-COR-03", "E1b-F1-DR_to_E1b-F1-COR-03", "E1b-F1-01_to_E1b-F1-COR-03", "E1b-F1-02_to_E1b-F1-COR-03", "E1b-F1-CL-01_to_E1b-F1-COR-03", "E1b-F1-COR-01_to_outside", "E1c-F1-02_to_E1c-F1-COR-01", "E1c-F1-04_to_E1c-F1-COR-01", "E1c-F1-WR_to_E1c-F1-COR-03", "E1c-F1-MR_to_E1c-F1-COR-03", "E1c-F1-SE_to_E1c-F1-COR-01", "E1c-F1-10_to_E1-F1-COR-01", "E1b-F1-09_to_E1-F1-COR-01", "E1b-F1-10_to_E1-F1-COR-01", "E1b-F1-11_to_E1-F1-COR-01", "E1b-F1-12_to_E1-F1-COR-01", "E1b-F1-08_to_E1-F1-COR-01", "E1-F1-COR-01_to_E1c-F1-COR-01", "E1-F1-COR-01_to_outside_3"],
+        "world_file":"/home/xiefujing/catkin_ws/src/mobile_manipulator_body/worlds/case2_with_collision.world",
+        "close_for_experience":["E1b-F1-COR-01_to_outside","E1-F1-COR-01_to_outside_3","E1b-F1-08_to_E1-F1-COR-01","E1b-F1-09_to_E1-F1-COR-01","E1b-F1-10_to_E1-F1-COR-01","E1b-F1-11_to_E1-F1-COR-01","E1b-F1-12_to_E1-F1-COR-01","E1-F1-COR-01_to_E1c-F1-COR-01"],
+        "events":
+            [
+                "class_room_renovation",
+                "current_time_sun7",
+                "navigation_task_start"
+            ]
+    }
+    
+}

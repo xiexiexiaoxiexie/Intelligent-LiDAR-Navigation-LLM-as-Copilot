@@ -1,0 +1,385 @@
+[
+    {
+        "current_status": {
+            "current_date": "Jul 5, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "",
+                    "event_data": "",
+                    "event_duration": "",
+                    "room_name": "",
+                    "msg_text": ""
+                }
+            ]
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 5, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "",
+                    "event_data": "",
+                    "event_duration": "",
+                    "room_name": "",
+                    "msg_text": ""
+                }
+            ]
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Graduation Party",
+                    "event_data": "Graduation Party in the Lobby",
+                    "event_duration": "All day",
+                    "room_name": "E1-F1-COR-01",
+                    "msg_text": "Reminder: Graduation Party in the Lobby - Please Avoid Crowding. Dear all, I hope this email finds you well. I wanted to inform you about an upcoming event on July 7 that might affect your day-to-day activities within the building. We are hosting a graduation party in the lobby today to celebrate the achievements of our graduating members. As you can imagine, such events tend to draw a crowd. While we encourage everyone to join in the celebration, we also want to ensure the safety and comfort of all residents. Therefore, I kindly request that you refrain from crowding in the lobby area during the party. We understand that it might be tempting to gather and socialize, but considering the current circumstances, it's crucial to maintain social distancing and avoid large gatherings whenever possible. By doing so, we can ensure that everyone can enjoy the festivities safely. If you have any questions or concerns regarding this event, please feel free to reach out to me or the organizing committee. Your cooperation and understanding are greatly appreciated. Thank you for your attention to this matter. Best regards, Public Service Office"
+                }
+            ],
+            "check_by_human": "true"
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 5, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Elevator Maintenance",
+                    "event_data": "Elevator maintenance in D sector",
+                    "event_duration": "July 7, 2024",
+                    "room_name": [
+                        "E2-P4"
+                    ],
+                    "msg_text": "During the test, the elevator in D sector is expected to stop, elevator in other sector will not be affected."
+                }
+            ],
+            "check_by_human": "false"
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 5, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 5, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 6, 2024",
+            "current_time": "10:00 AM",
+            "today_weather": "",
+            "current_events": [
+                {
+                    "event_name": "Elevator Maintenance",
+                    "event_data": "Elevator service will be temporarily suspended for maintenance work.",
+                    "event_duration": "Until further notice",
+                    "room_name": [
+                        "E2-P4",
+                        "E2-P3",
+                        "E1-P2",
+                        "E1-S1",
+                        "E1-P1"
+                    ],
+                    "msg_text": "Dear all, I hope this message finds you well. I am writing to inform you about now the elevator service will be temporarily suspended for maintenance work. The maintenance team will be conducting routine checks and repairs to ensure the elevators are in good working condition. While we understand that this might cause some inconvenience, please know that this maintenance work is essential to keep the elevators safe and operational. If you have any questions or concerns about the elevator maintenance, please feel free to contact the building management office. Thank you for your attention to this matter. Best regards, Public Service Office"
+                }
+            ],
+            "check_by_human": "true"
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Rainy",
+            "current_events": [
+                {
+                    "event_name": "Weather Update",
+                    "event_data": "Rainy day expected with steady rain, occasional showers, and possible thunderstorms.",
+                    "event_duration": "All day",
+                    "room_name": "outside",
+                    "msg_text": "Carry an umbrella or raincoat when going outdoors. Exercise caution while commuting."
+                }
+            ],
+            "check_by_human": "true"
+        },
+        "event_msg": "Weather Update:\nLocation: Shanghai\nDate: [Today's Date]\n\nForecast: Rainy day expected.\nConditions: Steady rain with occasional showers and possible thunderstorms.\nRecommendation: Carry an umbrella or raincoat when going outdoors. Exercise caution while commuting.\n\nStay dry and take care!"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        },
+        "event_msg": "Date: [Jul 7, 2024]\nTime: [11:00 AM]\nWeather: [Sunny]"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 6, 2024",
+            "current_time": "10:00 AM",
+            "today_weather": "Strong wind, rain, snow, and freezing",
+            "current_events": [
+                {
+                    "event_name": "Cold Wave Alert",
+                    "event_data": "Strong wind, rain, snow, and freezing",
+                    "event_duration": "Jul 6, 2024 to Jul 8, 2024",
+                    "room_name": "outside",
+                    "msg_text": "The first cold wave in 2024 is coming, from July 6 to 8, the city is expected to have a strong wind and cooling process, the lowest temperature drop can reach 7-9°C, extreme low temperature of -4°C to -6°C, accompanied by rain, snow, and freezing. Please be careful not to slip when traveling, and vehicles should slow down."
+                }
+            ],
+            "check_by_human": "true"
+        },
+        "event_msg": "Send time: 2024-07-06 10:00\nSubject: Notice about the work of preventing cold and freezing\n\n        Dear all,\n\n        According to the weather forecast, the first cold wave in 2024 is coming, from July 6 to 8, the city is expected to have a strong wind and cooling process, the lowest temperature drop can reach 7-9°C, extreme low temperature of -4°C to -6°C, accompanied by rain, snow, and freezing.\n\n        In order to prevent cold and freezing and ensure that the university can weather the cold wave smoothly, the following notes are made:\n\n        1. Please pay attention to the cold and put on enough clothes to keep warm when you go out.\n\n        2. Close the doors and windows and keep the air conditioner running.\n\n        3. The road may be icy, please be careful not to slip when traveling, and vehicles should slow down.\n\n        Office of General Services"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        },
+        "event_msg": "Date: [Jul 7, 2024]\nTime: [11:00 AM]\nWeather: [Sunny]"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 6, 2024",
+            "current_time": "10:00 AM",
+            "today_weather": "Typhoon Kanu with strong wind and heavy rain",
+            "current_events": [
+                {
+                    "event_name": "Typhoon Kanu",
+                    "event_data": "Strong wind and heavy rain",
+                    "event_duration": "Until further notice",
+                    "room_name": [
+                        "outside",
+                        "E1d-F1-13"
+                    ],
+                    "msg_text": "Stay indoors as much as possible. Close doors and windows. Avoid outdoor areas and potentially dangerous areas. Prepare emergency supplies in key areas such as laboratories. The gymnasium will be used as a temporary resettlement site and will be closed."
+                }
+            ],
+            "check_by_human": "false"
+        },
+        "event_msg": "Send time: 2024-07-06 10:00\nSubject: Typhoon notification\nDear all,\nAccording to the weather forecast, the strong typhoon \"Kanu\" is expected to impact Shanghai this week, which will bring along strong wind and heavy rain. In order to ensure the campus safety, please follow the guidance below:\n\n1. Please stay indoors as much as possible. Pay close attention to the weather information, and make full preparations. \n2. Please close the doors and windows of your offices and apartments. Do not place or hang objects outdoors such as on window sills and in the balconies.\n3. Park your cars in safe places. Stay away from large trees, billboards, street light poles and other potentially dangerous areas;\n4. In case of thunderstorms, please cut off the electrical power supply. If you happen to be outside, please seek shelter indoors. \n5. During the typhoon, the outdoor sport facilities will be closed.\n6. Please launch the emergency plans for buildings in case of severe weather. Prepare emergency supplies in the key areas such as laboratories.\n7. The gymnasium will be used as a temporary resettlement site for Zhangjiang. Once the resettlement process is activated, the gymnasium will be temporarily closed;\n8. If you need help in case of emergency on campus, please call the campus emergency number 20xxx (24 hours). The campus emergency repair number is: 20xxx (24 hours)\n\nOGS"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        },
+        "event_msg": "Date: [Jul 7, 2024]\nTime: [11:00 AM]\nWeather: [Sunny]"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Lighting Maintenance",
+                    "event_data": "All classrooms will be closed for maintaining the lighting equipment.",
+                    "event_duration": "July 7, 2024",
+                    "room_name": [
+                        "E1b-F1-09",
+                        "E1b-F1-10",
+                        "E1b-F1-11",
+                        "E1b-F1-08",
+                        "E1b-F2-09",
+                        "E1b-F2-10",
+                        "E1b-F2-11",
+                        "E1b-F2-08"
+                    ],
+                    "msg_text": "On July 7, all classrooms will be closed for maintaining the lighting equipment."
+                }
+            ],
+            "check_by_human": "true"
+        },
+        "event_msg": "Send time: 2024-07-06 10:00\nSubject: Lighting maintenance notification\nDear all,\n\nOn July 7, all classrooms will be closed for maintaining the lighting equipment.\n\nThank you for your understanding and support!\n\nOffice of General Services"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        },
+        "event_msg": "Date: [Jul 7, 2024]\nTime: [11:00 AM]\nWeather: [Sunny]"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": [
+                        "E1d-F1-04",
+                        "E1d-F1-05",
+                        "E1d-F1-14",
+                        "E1d-F1-06",
+                        "E1d-F1-COR-01"
+                    ],
+                    "msg_text": "Closure and renovation of classrooms 1D-104, 1D-106, 1D-107, 1D-108, and the main corridor of D sector from July 5, 2024, to September 12, 2024."
+                }
+            ],
+            "check_by_human": "true"
+        },
+        "event_msg": "Send time: 2024-07-04 10:00\nNotice on the closure and renovation of School of Information Science and Technology during the summer vacation of 2024\n\nDear all, \n\nAccording to the renovation schedule for the university, the first phase of the construction project will involve some classrooms of the SIST. The closure and renovation period will be from July 5, 2024, to September 12, 2024. If any teachers or students have left items in the classrooms, please retrieve them in advance. For students staying on campus during the vacation who wish to study, it is recommended to use facilities such as the library. \n\nWe apologize for any noise and inconvenience caused and appreciate your understanding.\n\n4 classrooms to be renovated in the SIST are 1D104、1D106、1D107、1D108, the main corridor of D sector will be closed and office of D sector can be accessed through an alternative corridor that is connected to the outside.\n\nSincerely,\n\nOffice of Undergraduate Programs & Graduate School & Library and IT Services & Office of General Services & Office of Campus Planning and Development"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        },
+        "event_msg": "Date: [Jul 7, 2024]\nTime: [11:00 AM]\nWeather: [Sunny]"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Fire Drill",
+                    "event_data": "Fire drill in SIST Building B sector and the Lobby",
+                    "event_duration": "One day",
+                    "room_name": [
+                        "E1b-F1",
+                        "E1b-F1-01",
+                        "E1b-F1-02",
+                        "E1b-F1-03",
+                        "E1b-F1-04",
+                        "E1b-F1-05",
+                        "E1b-F1-06",
+                        "E1b-F1-07",
+                        "E1b-F1-08",
+                        "E1b-F1-09",
+                        "E1b-F1-10",
+                        "E1b-F1-11",
+                        "E1b-F1-12",
+                        "E1b-F1-COR-01",
+                        "E1b-F1-COR-03",
+                        "E1b-F1-CL-01",
+                        "E1b-F1-DR",
+                        "E1b-F1-MR",
+                        "E1b-F1-SHOWER",
+                        "E1b-F1-WR",
+                        "E1b-F1-BAL",
+                        "E1b-F2",
+                        "E1b-F2-01",
+                        "E1b-F2-02",
+                        "E1b-F2-03",
+                        "E1b-F2-04",
+                        "E1b-F2-05",
+                        "E1b-F2-06",
+                        "E1b-F2-07",
+                        "E1b-F2-08",
+                        "E1b-F2-09",
+                        "E1b-F2-10",
+                        "E1b-F2-11",
+                        "E1b-F2-12",
+                        "E1b-F2-COR-01",
+                        "E1b-F2-COR-03",
+                        "E1b-F2-CL-01",
+                        "E1b-F2-DR",
+                        "E1b-F2-MR",
+                        "E1b-F2-SHOWER",
+                        "E1b-F2-WR",
+                        "E1b-F2-BAL",
+                        "E1-F1-COR-01"
+                    ],
+                    "msg_text": "Dear all,\n\nThere will be a fire drill on July 7th (Sunday) in SIST Building B sector and the Lobby. We can learn how to evacuate from the office/lab in the shortest time in emergency situation. After the fire drill, we can practice the use of fire extinguisher as well. You are welcome to attend this fire drill, which can improve safety awareness and survival skills.\n\nPlease pay attention to the following aspects: \n\n1.Please leave your office/lab when you hear the fire alarm, all the people in SIST Building B sector will gather at the emergengcy assembly point. Rescue staff will search the whole building afterwards, and the people who insist to stay in the building will be reported to the on-site leading group.\n\n2.Please don’t take the elevator and don’t cross the fire-resistance shutter. \n\n3.The fire drill will last about one day. So please don’t arrange meeting, experiment or other event in B sector.\n\nThanks for your understanding and cooperation."
+                }
+            ],
+            "check_by_human": "true"
+        },
+        "event_msg": "Send time: 2024-07-04 10:00\nDear all,\n\nThere will be a fire drill on July 7th (Sunday) in SIST Buiding B sector and the Lobby. We can learn how to evacuate from the office/lab in the shortest time in emergency situation. After the fire drill, we can practice the use of fire extinguisher as well. You are welcome to attend this fire drill, which can improve safety awareness and survival skills.\n\nPlease pay attention to the following aspects: \n\n1.Please leave your office/lab when you hear the fire alarm, all the people in SIST Building B sector will gather at the emergengcy assembly point. Rescue staff will search the whole building afterwards, and the people who insist to stay in the building will be reported to the on-site leading group.\n\n2.Please don’t take the elevator and don’t cross the fire-resistance shutter. \n\n3.The fire drill will last about one day. So please don’t arrange meeting, experiment or other event in B sector.\n\nThanks for your understanding and cooperation."
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": []
+        },
+        "event_msg": "Date: [Jul 7, 2024]\nTime: [11:00 AM]\nWeather: [Sunny]"
+    },
+    {
+        "current_status": {
+            "current_date": "Jul 7, 2024",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Wireless Network Upgrade",
+                    "event_data": "Wireless access will be affected during the upgrade operation.",
+                    "event_duration": "8 hours",
+                    "room_name": [
+                        "E1b-F1-COR-01",
+                        "E1-F1-COR-01"
+                    ],
+                    "msg_text": "In order to further improve the quality of network service, Library and Information Center plans to upgrade the wireless access exchange in SIST Building B sector and the lobby on July 7, 2024. The wireless access will be affected during the upgrade (the upgrade operation will be carried out in batches, and the actual affected time will be about 8 hours). We apologize for any inconvenience caused. If you have any other questions, please call IT operation and maintenance service hotline 021-xxx or contact Teacher Jie Lin, tel: 021-xxx, Email: xxx@shanghaitech.edu.cn"
+                }
+            ]
+        },
+        "event_msg": "Send time: 2024-07-04 10:00\nDear all,\n\nIn order to further improve the quality of network service, Library and Information Center plans to upgrade the wireless access exchange in SIST Building B sector and the lobby on July 7, 2024. The wireless access will be affected during the upgrade (the upgrade operation will be carried out in batches, and the actual affected time will be about 8 hours). We apologize for any inconvenience caused. If you have any other questions, please call IT operation and maintenance service hotline 021-xxx or contact Teacher Jie Lin, tel: 021-xxx, Email: xxx@shanghaitech.edu.cn \n\nSchool of Information IT team"
+    }
+]

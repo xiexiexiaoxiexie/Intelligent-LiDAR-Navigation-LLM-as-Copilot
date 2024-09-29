@@ -1,0 +1,50 @@
+[
+    {
+        "current_status": {
+            "current_date": "2024-07-04",
+            "current_time": "10:00",
+            "today_weather": "",
+            "current_events": [
+                {
+                    "event_name": "Fire Drill",
+                    "event_data": "2024-07-07",
+                    "event_duration": "One day",
+                    "room_name": "B sector and Lobby",
+                    "msg_text": "There will be a fire drill on July 7th (Sunday) in SIST Building B sector and the Lobby. Please leave your office/lab when you hear the fire alarm. The fire drill will last about one day. So please don’t arrange meeting, experiment or other event in B sector."
+                }
+            ]
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "2024-07-05",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Fire Drill",
+                    "event_data": "2024-07-07",
+                    "event_duration": "One day",
+                    "room_name": "B sector and Lobby",
+                    "msg_text": "There will be a fire drill on July 7th (Sunday) in SIST Building B sector and the Lobby. Please leave your office/lab when you hear the fire alarm. The fire drill will last about one day. So please don’t arrange meeting, experiment or other event in B sector."
+                }
+            ]
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "2024-07-07",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Fire Drill",
+                    "event_data": "2024-07-07",
+                    "event_duration": "One day",
+                    "room_name": "B sector and Lobby",
+                    "msg_text": "There will be a fire drill on July 7th (Sunday) in SIST Building B sector and the Lobby. Please leave your office/lab when you hear the fire alarm. The fire drill will last about one day. So please don’t arrange meeting, experiment or other event in B sector."
+                }
+            ]
+        }
+    }
+]

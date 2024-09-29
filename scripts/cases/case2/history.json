@@ -1,0 +1,90 @@
+[
+    {
+        "current_status": {
+            "current_date": "2024-07-05",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-104",
+                    "msg_text": "Room 1D-104 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-106",
+                    "msg_text": "Room 1D-106 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-107",
+                    "msg_text": "Room 1D-107 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-108",
+                    "msg_text": "Room 1D-108 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure of Main Corridor",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "D sector main corridor",
+                    "msg_text": "The main corridor of D sector will be closed. Offices in D sector can be accessed through an alternative corridor connected to the outside."
+                }
+            ]
+        }
+    },
+    {
+        "current_status": {
+            "current_date": "2024-07-07",
+            "current_time": "11:00 AM",
+            "today_weather": "Sunny",
+            "current_events": [
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-104",
+                    "msg_text": "Room 1D-104 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-106",
+                    "msg_text": "Room 1D-106 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-107",
+                    "msg_text": "Room 1D-107 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure and Renovation",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "1D-108",
+                    "msg_text": "Room 1D-108 will be closed for renovation."
+                },
+                {
+                    "event_name": "Closure of Main Corridor",
+                    "event_data": "2024-07-05 to 2024-09-12",
+                    "event_duration": "July 5, 2024 to September 12, 2024",
+                    "room_name": "D sector main corridor",
+                    "msg_text": "The main corridor of D sector will be closed. Offices in D sector can be accessed through an alternative corridor connected to the outside."
+                }
+            ]
+        }
+    }
+]
