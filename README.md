@@ -33,12 +33,19 @@ Traditional robot navigation systems primarily utilize occupancy grid maps and l
   - NavigationEventMonitor.py: used to monitor the navigation event and approve path planned by osmAGPathPlanning module, please refer to 'NavigationEventMonitor' module in the paper for more details.
 ### How to Use the Code
 Step 1: Setting Up the Environment
+
 `conda env create -f ./intelligent_navigation.yml`
+
 Step 2: put the package in a ros workspace folder and catkin_make the ros workspace folder.
+
 `catkin_make`
+
 Step 3: Source the workspace
+
 `source devel/setup.bash`
+
 Step 4: Run the launch file
+
 `roslaunch osmAG_intelligent_navigation robot2.launch`
 
 ### Citation
