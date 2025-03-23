@@ -1,0 +1,103 @@
+[
+    {
+        "timestamp": 25.185,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 32.223,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 57.466,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 73.859,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 1106.237,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": ["B sector", "Lobby"]
+            },
+        "checked_by_human": false
+    },
+    {
+        "timestamp": 1114.975,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 2084.872,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": ["B sector", "Lobby"]
+            },
+        "checked_by_human": false
+    },
+    {
+        "timestamp": 3024.797,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 3959.827,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 59.597,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    }
+    
+]

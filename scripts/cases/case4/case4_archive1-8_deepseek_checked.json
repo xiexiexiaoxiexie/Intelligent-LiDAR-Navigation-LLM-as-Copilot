@@ -1,0 +1,103 @@
+[
+    {
+        "timestamp": 62.385,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 76.024,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": ["SIST Building B sector", "lobby"]
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 968.585,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 982.822,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 1810.038,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 1846.915,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 2696.462,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": true,
+            "areas_to_Avoid": [],
+            "areas_try_to_Avoid": ["SIST Building B sector", "lobby"]
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 3513.392,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 4535.156,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    },
+    {
+        "timestamp": 6472.283,
+        "topic_name": "/NavigationEventMonitor_response_json_str",
+        "msg": {
+            "is_Valid": false,
+            "areas_to_Avoid": ["E1-F1-COR-01"],
+            "areas_try_to_Avoid": []
+            },
+        "checked_by_human": true
+    }
+              
+]
